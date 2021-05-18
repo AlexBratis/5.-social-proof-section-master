@@ -1,0 +1,161 @@
+
+
+  body{
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  font-size: 15px;
+  width: 100%;
+  height: 900px;
+  background-color: #fff;	
+ position: relative;
+}
+
+.container{
+	width: 80%;
+  	height: 650px;
+  	background: url('images/desktop.svg'); 
+  	background-image: cover;
+  	background-repeat: no-repeat;
+  	margin: 100px auto;
+ }
+ .upside{
+ 	text-align: left;
+ 	height: 300px;
+
+ }
+
+ .left{
+ 	height: 300px;
+ 	width: 550px;
+	float: left;
+ }
+
+ 
+ h1{
+ 	color: hsl(300, 43%, 22%);
+ 	margin-top: 50px;
+ 	margin-left: 30px;
+ 	margin-bottom: 5px;
+ }
+ .subtitlu {
+ 	color: hsl(300, 43%, 22%);
+ 	margin-left: 30px;
+ 	margin-top: 5px;
+ }
+ .right{
+ 	height: 300px;
+ 	width: 500px;
+ 	float: left;
+ 	margin-top: 20px;
+ }
+
+
+ .steluta1,img,h4{
+ 	display: inline;
+ 	margin-top: 20px; 
+ 	padding: 2px;	
+
+
+ }
+ .steluta1{
+ 	background:#f5d5e3;
+ 	margin-left: 150px;
+ 	border-radius: 5px;
+	width: 700px;
+ 	margin-bottom: 10px;
+ 	padding: 5px;
+ 	
+ }
+  .steluta2{
+ 	background:#f5d5e3;
+ 	margin-left: 150px;
+ 	border-radius: 5px;
+ 	height: 50px;
+ 	width: 400px;
+ 	margin-top: 15px;
+ 	margin-bottom: 10px;
+ 	margin-left: 200px;
+ }
+  .steluta3{
+    background:#f5d5e3;
+ 	margin-left: 150px;
+ 	border-radius: 5px;
+ 	height: 50px;
+	width: 400px;
+ 	margin-top: 10px;
+ 	margin-bottom: 10px;
+ 	margin-left: 250px;
+ }
+ h4{
+ 	
+ 	padding: 5px;
+ }
+
+ .downside{
+	width: 80%;
+	height: 400px;
+	display: flex;
+	float : left;
+ }
+
+ .row1{
+ 	height: 300px;
+ 	width: 100px;
+ 	margin-left: 150px;
+	flex: 1;
+ 	background-color: hsl(300, 43%, 22%);
+ 	color: hsl(0, 0%, 100%);
+ 	border-radius: 20px;
+ 	text-align: left;
+ }
+  .row2{
+ 	height: 300px;
+    width: 100px;
+ 	margin-left: 10px;
+ 	margin-top: 15px;
+ 	flex:1;
+ 	background-color: hsl(300, 43%, 22%);
+ 	color: hsl(0, 0%, 100%);
+	border-radius: 20px;
+	text-align: left;
+
+ }
+  .row3{
+	height: 300px;
+ 	width: 100px;
+ 	margin-left: 10px;
+ 	margin-top: 30px;
+	flex:1;
+	background-color: hsl(300, 43%, 22%);
+	color: hsl(0, 0%, 100%);
+	border-radius: 20px;
+	text-align: left;
+ }
+ h5{
+ 	padding: 10px;
+ }
+ h6{
+ 	color: hsl(333, 80%, 67%);
+ 	margin-top: 0px;
+ 	padding: 10px;
+ }
+ p{
+ 	padding: 10px;
+ }
+
+.row1 img{
+	border-radius: 50px;
+	float: left;
+	margin-right: 10px;
+
+}
+.row2 img{
+	border-radius: 50px;
+	float: left;
+	margin-right: 10px;
+}
+.row3 img{
+	border-radius: 50px;
+	float: left;
+	margin-right: 10px;
+}
